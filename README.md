@@ -1,6 +1,6 @@
 ### Hi there, I'm SAMEER SAIFI 
 
-## I'm a Student !!
+## I'm a Student, Developer !!
 - 🔭 I’m currently working on Final year project with Java.
 - 🌱 I’m currently learning Everything for placement.
 - 👯 I’m looking to collaborate with other content creators
